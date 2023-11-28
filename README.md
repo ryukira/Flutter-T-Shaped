@@ -100,7 +100,7 @@
    - Getting to know the main architecture patterns used by the Flutter community, such as MVC, MVVM, MVP etc
 - [ ] **Flutter - Packages and Plugins**:
    - Learning how to develop plugins for Flutter
-## Habilidade Auxiliar: Infrastructure and Back-end 
+## Infrastructure and Back-end 
 - [ ] **Git & GitHub - Fundamentals**:
    - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
    - GitHub is a hosting service for software development and version control using Git.
@@ -143,7 +143,7 @@
    - Understanding how to install Firebase
    - Getting acquainted with Firebase documentation
    - Learning about the Firebase tools available
-## Habilidade Auxiliar: UX and Design 
+## UX and Design 
 - [ ] **Design Systems**:
    - A design system is a collection of reusable components, guided by clear standards, that can be assembled together to build applications.
    - Creating and maintaining libraries that will be consumed and used as a standard for building a project
